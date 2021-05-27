@@ -38,3 +38,6 @@ At the prompt, type a secure passphrase. For more information, see "Working with
 
 > Enter passphrase (empty for no passphrase): [Type a passphrase]
 > Enter same passphrase again: [Type passphrase again]
+
+$cat ~/.ssh/id_rsa.pub     to get ssh key
+
